@@ -1,1 +1,1 @@
-
+The Ticket Booking System is a Python-based console application that allows users to create an account, log in, and book tickets for bus journeys. It ensures user authentication with email and password and verifies bookings through OTP sent to the user's email.
